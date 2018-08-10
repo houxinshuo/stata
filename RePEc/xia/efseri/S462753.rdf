@@ -1,0 +1,22 @@
+Title: EFOLDER: Stata modules to esaily create folders and/or subfolders
+Author-Name: X.S. Hou (Hou Xinshuo)
+Author-WorkPlace-Name: Xavier Stata
+Author-Email: houxinshuo@126.com
+Programming-Language: Stata
+Abstract: efolder provides an easy way to creat folders and/or subfolders in any geiven directory path(with the current working directory as default).
+You can have a folder created freely and easily any where. And you can quickly open the mainfolder,by clik the link generated automatically, you have just created.
+Series: Statistical Software Components
+Number:  S462753
+Creation-Date: 20180810
+Length: 69 lines
+Classification-JEL: C61
+File-URL: https://github.com/houxinshuo/stata/blob/master/RePEc/xia/efseri/ef.ado
+File-Format: text/plain
+File-Function: program code
+File-URL: https://github.com/houxinshuo/stata/blob/master/RePEc/xia/efseri/efolder.ado
+File-Format: text/plain
+File-Function: program code
+File-URL: https://github.com/houxinshuo/stata/blob/master/RePEc/xia/efseri/efolder.sthlp
+File-Format: text/plain
+File-Function: program code
+Handle: RePEc:xia:eccode:S462753 
