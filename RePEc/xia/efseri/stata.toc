@@ -1,6 +1,7 @@
 v 1
 d Hou Xinshuo, Xiangtan University (houxinshuo@126.com)
 p efolder EFOLDER - stata module to esaily create folders and/or subfolders
+t https://github.com/houxinshuo/stata/edit/master/RePEc/xia/efseri/
 
 * l word-to-show path-or-url [description]
 * t: Directories within site:
