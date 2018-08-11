@@ -18,5 +18,9 @@ File-Format: text/plain
 File-Function: program code
 File-URL: https://github.com/houxinshuo/stata/blob/master/RePEc/xia/efseri/efolder.sthlp
 File-Format: text/plain
+File-URL: https://github.com/houxinshuo/stata/blob/master/RePEc/xia/efseri/efolder.pkg
+File-Format: text/plain
+File-URL: https://github.com/houxinshuo/stata/blob/master/RePEc/xia/efseri/stata.toc
+File-Format: text/plain
 File-Function: program code
 Handle: RePEc:xia:eccode:S462753
