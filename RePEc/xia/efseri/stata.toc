@@ -1,0 +1,9 @@
+v 1
+d Hou Xinshuo, Xiangtan University (houxinshuo@126.com)
+p efolder EFOLDER - stata module to esaily create folders and/or subfolders
+
+* l word-to-show path-or-url [description]
+* t: Directories within site:
+* t path [description]
+* Packages:
+* p pkgname [description]
