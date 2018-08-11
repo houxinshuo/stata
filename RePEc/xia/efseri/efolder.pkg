@@ -1,0 +1,29 @@
+v 1
+
+d EFOLDER: stata module to esaily create folders and/or subfolders
+d
+d Author: Hou xinshuo. Xiangtan University
+d Support: houxinshuo@126.com
+d
+d efoder provides an easy way to creat folders and/or subfolders in any geiven directory path
+d (with the current working directory as default). For example, we can have a folder named
+d {cmd:mainf} created with four subfolder, named by {cmd:a b c d} respectively, in path 
+d {cmd:"D:\stata15\temp\zero"}, eventhough the folder {cmd:zero} dose not exist, just using 
+d the command  {cmd: efolder mainf, cd(D:\stata15\temp\zero) sub(a b c d)} .
+d
+d
+d KW: folder
+d KW: subfolder
+d KW: directory
+d KW: ef
+d
+d Requires: Stata version 11
+d
+d
+d Distribution-Date: 20180811
+d
+
+e ef.ado
+e efolder
+
+e efolder.sthlp
