@@ -7,7 +7,6 @@ d Support: houxinshuo@126.com
 d
 d efoder provides an easy way to creat folders and/or subfolders in any geiven directory path (with the current working directory as default) 
 d
-d
 d KW: folder
 d KW: subfolder
 d KW: directory
@@ -15,10 +14,8 @@ d KW: ef
 d
 d Requires: Stata version 11
 d
-d
 d Distribution-Date: 20180811
 d
-
 f ef.ado
 f efolder.ado
 f efolder.sthlp
