@@ -26,6 +26,7 @@ if "`sub'" == "" & "`subname'" ==""{
 	 capture mkdir "`anything'"
 	 dis in w `"A folder named `anything' created."'  `"{browse `"`c(pwd)'/`anything'"' :      [`anything'] }"'
 	 dis in w `"No subfolders been created."' 
+	 capture cd "`$gcd\'`anything'" 
 	}
 	else if "`anything'" == "" {
 	 dis in w `"No folders been created."' 
